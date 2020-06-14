@@ -1,9 +1,14 @@
-Welcome to LW cloud
-<br>
+<html>
+<body>
 
-<pre>
+<h2> My First Task </h2>
+
+<br>
+<p> Hello everyone. This is Mridul Markandey. </p>
+<br><br>
+<h4> This image is coming from Cloud Front </h4>
 <?php
 
-print `ifconfig`;
+echo "The Earth <br>";
 ?>
-</pre>
+
