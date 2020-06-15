@@ -8,7 +8,6 @@
 <br>
 <h3> This image is coming from Cloud Front ....!!! </h3>
 <?php
-
-echo "The Earth <br>";
+echo "<center>Our Earth <center><br>";
 ?>
 
