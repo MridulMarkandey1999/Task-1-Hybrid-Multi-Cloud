@@ -3,10 +3,7 @@ provider "aws" {
   profile    = "myDemoUser"
 }
 
-/*variable "Enter_your_key_name"{
- type= string
-}
-*/
+
 resource "aws_security_group" "security_grp1" {
   name        = "allowing_http_from_port_80"
 
